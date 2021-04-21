@@ -1,1 +1,1 @@
-[21/04/2021] - Angular CLI does not provide you with an utility to rename your component generated with `ng generate component <name>`.
+[21/04/2021] - Angular CLI does not provide you with an utility to rename your component generated with `ng generate component <name>`. Angular expects you to sift through many files, rename them, alter *.ts... Just because you made an mistake when you didn't know better. Extreme inconvenient.
