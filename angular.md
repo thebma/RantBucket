@@ -10,3 +10,4 @@ A work around is available, but it does require some work and knowledge, but the
 
 [Using the Angular Router to navigate to external links](https://stackoverflow.com/a/62938120)
 
+[29/04/2021] - `ng serve --open` taking ages to launch. Seems like the majority of the time is just spent hanging executing the command. Unsure wether this is Angular's CLI doing.
