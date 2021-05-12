@@ -1,0 +1,1 @@
+[12/05/12] - Vue documentation is a mess, tons of dead links referring to Vue 2. Prompting "You’re browsing the documentation for v2.x and earlier. For v3.x, click here.", when you navigate to the Vue 3 Documentation, you just get redirected to their main page... I mean you could just show me _the Vue 3 equivalent!?_. This really makes me want to flip a table. (┛ಠ_ಠ)┛彡┻━┻
